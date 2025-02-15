@@ -1,0 +1,14 @@
+#list li {
+  transition: background-color 0.2s ease-in-out;
+}
+
+.active {
+  background-color: #ccc;
+  height:80px;
+  width:50px;
+  border-radius: 10px;
+}
+
+.container{
+  background-color: white;
+}
